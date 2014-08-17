@@ -1,0 +1,21 @@
+{
+  "name": "inuitless-shared",
+  "version": "0.1.3",
+  "homepage": "https://github.com/inuitless/generic.shared",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+  ],
+  "description": "A small selection of shared styles used in the inuitcss framework",
+  "main": "generic.shared.less",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css",
+    "less"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "inuitless-defaults": "~0.2.0"
+  }
+}
